@@ -1,5 +1,5 @@
-adding some more content in the file
 
+I WOULD LIKE TO SAY LEARNING IS ALWAYS FUN, NO MATTER HOW WE LEARN THE STUFF
 
 # Hello-Naaru
 This is the first repository created using tutorial....
